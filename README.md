@@ -1,5 +1,6 @@
 # Grocery-Tracking
 - Summarize the project and what problem it was solving.
+- 
 The project takes a txt file with a list of sold items at a grocery store and aggregates the list to keep a running total of how much of each item has been sold. The allows a grocery store to see what items sell more often so they may optimize their product layout, as well as anticipate what items to restock sooner.
 - What did you do particularly well?
 I incorporated a map to aggregate the data in the txt file. By using the item name as a key, I was able to use the value as a counter to accurately track the frequency an item appears in the txt file. 
